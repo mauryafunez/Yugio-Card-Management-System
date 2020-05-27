@@ -1,0 +1,6 @@
+1	Alternative Blue Eyes White Dragon	3000	2500	Monster	Normal	Dragon
+1	Blue Eyes White Dragon	3000	2500	Monster	Normal	Dragon
+1	Dark Magician	2500	2100	Monster	Normal	Spellcaster
+1	Kuriboh	300	200	Monster	Effect	Fiend
+1	Dark Magician Girl	2000	1700	Monster	Effect	Spellcaster
+
